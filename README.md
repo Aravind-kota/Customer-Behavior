@@ -22,7 +22,8 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 1. Clone the repository
    bash
-   https://github.com/Aravind-kota/Customer-Behavior/blob/main/customer_shopping_behavior.csv
+   Clone :- https://github.com/Aravind-kota/Customer-Behavior/tree/main
+
 3. Open Customer_Shopping_Behavior_Analysis.ipynb notebook
 
     This file contains:
