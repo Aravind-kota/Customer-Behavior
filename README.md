@@ -21,8 +21,9 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ## 🛠️ How to Use This Project
 
 1. Clone the repository
- 
-2. Open Customer_Shopping_Behavior_Analysis.ipynb notebook
+   bash
+   https://github.com/Aravind-kota/Customer-Behavior/blob/main/customer_shopping_behavior.csv
+3. Open Customer_Shopping_Behavior_Analysis.ipynb notebook
 
     This file contains:
 
@@ -34,7 +35,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
       - Connection to SQL Database
   
-3. Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server
+4. Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server
 
       - Create a database in SQL
 
@@ -44,7 +45,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
   
       - Answer Business Questions using SQL Queries 
       
-4. Connect the SQL Database to Power BI
+5. Connect the SQL Database to Power BI
 
       - Open customer_behavior_dashboard.pbix
    
